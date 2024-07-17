@@ -53,14 +53,6 @@ Each topic in the table of contents links to a detailed page covering that speci
 
 Whether you're a beginner looking to build a strong foundation or an experienced practitioner aiming to refresh your knowledge, this guide offers valuable insights into the world of data science and statistics.
 
-## Contributing
-
-We welcome contributions to this guide! If you have suggestions for improvements or additional topics, please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to submit your ideas.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Start your journey by exploring the [Introduction to Data Science & Statistics](01_introduction.md), or dive into a specific topic that interests you. Happy learning!
